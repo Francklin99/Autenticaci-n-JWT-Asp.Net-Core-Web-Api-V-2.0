@@ -1,0 +1,27 @@
+
+CREATE DATABASE DBAUTENTICACIONJWT
+
+USE DBAUTENTICACIONJWT
+
+
+CREATE TABLE Usuario(
+Idusuario int primary key identity,
+Nombre varchar(50),
+Correo varchar(50),
+Clave varchar(100)
+)
+
+create table Producto(
+IdProducto int primary key identity,
+Nombre varchar(50),
+marca varchar(50),
+precio decimal(10,2)
+)
+
+/*INSERTAMOS DATOS*/
+
+insert into Producto(Nombre,Marca,Precio)
+values('Laptop gammer 1001','HP',3500),
+('Monitor curvo HD','Samsung',2000)
+
+select *from Producto

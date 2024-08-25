@@ -1,0 +1,17 @@
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.Utility.deps.json
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.Utility.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.Utility.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.DTO.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.Model.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.DTO.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\bin\Debug\net8.0\Autenticacion.Model.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autentic.1E6FF24F.Up2Date
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\refint\Autenticacion.Utility.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\Autenticacion.Utility.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.Utility\obj\Debug\net8.0\ref\Autenticacion.Utility.dll

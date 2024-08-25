@@ -1,0 +1,15 @@
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\bin\Debug\net8.0\Autenticacion.DAL.deps.json
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\bin\Debug\net8.0\Autenticacion.DAL.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\bin\Debug\net8.0\Autenticacion.DAL.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\bin\Debug\net8.0\Autenticacion.Model.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\bin\Debug\net8.0\Autenticacion.Model.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autentic.E16574E2.Up2Date
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\refint\Autenticacion.DAL.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\Autenticacion.DAL.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DAL\obj\Debug\net8.0\ref\Autenticacion.DAL.dll

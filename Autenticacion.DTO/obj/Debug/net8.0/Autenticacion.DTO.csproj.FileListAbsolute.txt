@@ -1,0 +1,11 @@
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\bin\Debug\net8.0\Autenticacion.DTO.deps.json
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\bin\Debug\net8.0\Autenticacion.DTO.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\bin\Debug\net8.0\Autenticacion.DTO.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\refint\Autenticacion.DTO.dll
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\Autenticacion.DTO.pdb
+C:\Users\Frank\source\repos\Autenticacion_Token\Autenticacion.DTO\obj\Debug\net8.0\ref\Autenticacion.DTO.dll
